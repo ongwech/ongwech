@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan Ongwech</h1>
-<h3 align="center">A Software Engineer 🤓</h3>
+<h3 align="center">A Computer Engineer 🤓</h3>
 
 <p align="left"> <a href="https://twitter.com/jordanongwech" target="blank"><img src="https://img.shields.io/twitter/follow/jordanongwech?logo=twitter&style=for-the-badge" alt="jordanongwech" /></a> </p>
 
